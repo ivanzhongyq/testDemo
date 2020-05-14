@@ -1,19 +1,19 @@
-fate项目star
+fate项目star<br>
 [![Stargazers over time](https://starchart.cc/FederatedAI/FATE.svg)](https://starchart.cc/FederatedAI/FATE)
 
-linkis项目star
+linkis项目star<br>
 [![Stargazers over time](https://starchart.cc/WebankFintech/Linkis.svg)](https://starchart.cc/WebankFintech/Linkis)
 
-DataSphsere Studio项目star
+DataSphsere Studio项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankFinTech/DataSphereStudio.svg)](https://starchart.cc/WeBankFinTech/DataSphereStudio)
 
-DeFiBus项目star
+DeFiBus项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankFinTech/DeFiBus.svg)](https://starchart.cc/WeBankFinTech/DeFiBus)
 
-WeIdentity项目star
+WeIdentity项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankFinTech/WeIdentity.svg)](https://starchart.cc/WeBankFinTech/WeIdentity)
 
-WeEvent项目star
+WeEvent项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankFinTech/WeEvent.svg)](https://starchart.cc/WeBankFinTech/WeEvent)
 
 #徽章测试
