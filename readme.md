@@ -17,6 +17,7 @@ WeEvent项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankFinTech/WeEvent.svg)](https://starchart.cc/WeBankFinTech/WeEvent)
 
 #徽章测试
+#针对wecmdb项目
 <p align="left">
     <a href="https://opensource.org/licenses/Apache-2.0" alt="License">
         <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" /></a>
@@ -32,4 +33,14 @@ WeEvent项目star<br>
         <img src="https://img.shields.io/github/contributors/WeBankPartners/we-cmdb" /></a>
     <a href="https://github.com/WeBankPartners/we-cmdb/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/WeBankPartners/we-cmdb" /></a>
+</p>
+
+#针对linkis项目
+<p align="left">
+    <a href="https://opensource.org/licenses/Apache-2.0" alt="License">
+        <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" /></a>
+    <a href="https://github.com/WeBankFintech/Linkis/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/WeBankFintech/Linkis" /></a>
+    <a href="https://github.com/WeBankFintech/Linkis/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/WeBankFintech/Linkis" /></a>
 </p>
