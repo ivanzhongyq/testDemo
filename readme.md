@@ -16,6 +16,9 @@ WeIdentity项目star<br>
 WeEvent项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankFinTech/WeEvent.svg)](https://starchart.cc/WeBankFinTech/WeEvent)
 
+WeCMDB项目star<br>
+[![Stargazers over time](https://starchart.cc/WeBankPartners/we-cmdb.svg)](https://starchart.cc/WeBankPartners/we-cmdb)
+
 #徽章测试
 #针对wecmdb项目
 <p align="left">
