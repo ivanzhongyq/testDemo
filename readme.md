@@ -19,6 +19,9 @@ WeEvent项目star<br>
 WeCMDB项目star<br>
 [![Stargazers over time](https://starchart.cc/WeBankPartners/we-cmdb.svg)](https://starchart.cc/WeBankPartners/we-cmdb)
 
+YApi项目star<br>
+[![Stargazers over time](https://starchart.cc/YMFE/yapi.svg)](https://starchart.cc/YMFE/yapi)
+
 #徽章测试
 #针对wecmdb项目
 <p align="left">
