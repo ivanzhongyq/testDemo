@@ -1,3 +1,7 @@
+wxa项目star<br>
+[![Stargazers over time](https://starchart.cc/WebankFintech/wxa.svg)](https://starchart.cc/WebankFintech/wxa)
+
+
 fes项目star<br>
 [![Stargazers over time](https://starchart.cc/WebankFintech/fes.js.svg)](https://starchart.cc/WebankFintech/fes.js)
 
