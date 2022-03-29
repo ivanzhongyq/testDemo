@@ -1,3 +1,6 @@
+linkis项目star<br>
+[![Stargazers over time](https://starchart.cc/WebankFintech/Linkis.svg)](https://starchart.cc/WebankFintech/Linkis)
+
 dataease/dataease项目star<br>
 [![Stargazers over time](https://starchart.cc/dataease/dataease.svg)](https://starchart.cc/dataease/dataease)
 
